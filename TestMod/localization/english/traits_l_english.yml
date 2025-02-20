@@ -1,0 +1,4 @@
+﻿l_english:
+ trait_weird:0 "Weird"
+ trait_weird_desc:0 "This character is fuckin weird"
+ trait_weird_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is fuckin weird."
